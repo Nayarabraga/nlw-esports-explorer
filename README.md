@@ -7,7 +7,7 @@
 
 Projeto construido no evento Next Level Week da Rocketseat.
 
-[clique aqui para acessar] (https://nayarabraga.github.io/nlw-esports-explorer/)
+[clique aqui para acessar](https://nayarabraga.github.io/nlw-esports-explorer/)
 
 ## Tecnologias
 
